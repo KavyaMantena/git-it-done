@@ -9,7 +9,7 @@ A website that will search GitHub for open source projects with open issues and 
 * Javascript
 
 ## Website
-
+https://kavyamantena.github.io/git-it-done/
 
 ## Contribution
 Made by Kavya Mantena
